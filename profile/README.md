@@ -1,4 +1,4 @@
-# BetterMeower
+# Welcome to the BetterMeower team!
 BetterMeower is a fork of Meower Svelte with some new and improved features!
 
 ## [Launch BetterMeower](https://open.bettermeower.app)
@@ -19,14 +19,14 @@ BetterMeower contains many new features and improvements over standard Meower, i
 ✅ Emoji Shortcodes
 
 ## Credits
-**Everyone who contributed to [meower-media-co/Meower-Svelte](https://github.com/meower-media-co/Meower-Svelte)** - Without Meower Svelte and it's contributors, this project wouldn't exist
+**Everyone who contributed to [meower-media-co/Meower-Svelte](https://github.com/meower-media-co/Meower-Svelte)** - Without Meower Svelte and its contributors, this project wouldn't exist
 
-**[@ArrowAced](https://github.com/ArrowAced)** - For helping setup Cloudflare Pages
+**[@ArrowAced](https://github.com/ArrowAced)** - For helping me setup Cloudflare Pages
 
-**[@tnix100](https://github.com/tnix100)** - For helping setup Cloudflare Pages and for the press-enter-to-post script for textarea
+**[@tnix100](https://github.com/tnix100)** - For helping me setup Cloudflare Pages and for the press-enter-to-post script for textarea
 
-**[@mdwalters](https://github.com/mdwalters)** - For testing, giving feedback, and helping with 1.4.0 as well as the idea to make BetterMeower
+**[@mdwalters](https://github.com/mdwalters)** - For testing, giving me feedback, and helping with 1.4.0 as well as inspiring me to make BetterMeower
 
-**[@Bloctans](https://github.com/Bloctans)** - For the idea to make BetterMeower, and helping with npm and node.js.
+**[@Bloctans](https://github.com/Bloctans)** - For inspiring me to make BetterMeower, and helping me with npm and node.js.
 
-**[@webdev03](https://github.com/webdev03)** - For helping with npm and node.js.
+**[@webdev03](https://github.com/webdev03)** - For helping me with npm and node.js.
