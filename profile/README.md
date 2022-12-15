@@ -1,4 +1,4 @@
-# Welcome to the BetterMeower team!
+# Welcome to BetterMeower!
 BetterMeower is a fork of Meower Svelte with some new and improved features!
 
 ## [Launch BetterMeower](https://open.bettermeower.app)
